@@ -3,6 +3,7 @@
 Full-stack inventory and invoice management system:
 - Backend: Laravel 12 (PHP 8.2)
 - Frontend: React + TypeScript + Vite
+- Purpose: Quan ly ban hang, nhap hang, ton kho
 
 ## Repository Structure
 
